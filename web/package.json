@@ -1,7 +1,7 @@
 {
-  "name": "samaritan",
+  "name": "app-client",
   "version": "0.1.2",
-  "description": "A good samaritan ?",
+  "description": "",
   "private": false,
   "keywords": [],
   "scripts": {
